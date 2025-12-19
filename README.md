@@ -37,16 +37,21 @@ After the dataset has been prepared, we could run the follow command to train.
 > python main.py
 
 ## Citation 
+If you find this useful for your research, please use the following.
+
+```
 @article{10.1145/3785478,
-  author = {Han, Shuo and Qin, Qibing and Zhang, Wenfeng and Huang, Lei},
-  journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
-  title = {Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval},
-  year = {2025},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  issn = {1551-6857},
-  url = {https://doi.org/10.1145/3785478},
-  doi = {[10.1145/3785478](https://doi.org/10.1145/3785478)}}
+author = {Han, Shuo and Qin, Qibing and Zhang, Wenfeng and Huang, Lei},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+title = {Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3785478},
+doi = {[10.1145/3785478](https://doi.org/10.1145/3785478)}
+}
+```
 
 ## Acknowledegements
 [DCHMT](https://github.com/kalenforn/DCHMT)
