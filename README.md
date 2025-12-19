@@ -49,7 +49,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 issn = {1551-6857},
 url = {https://doi.org/10.1145/3785478},
-doi = {[10.1145/3785478](https://doi.org/10.1145/3785478)}
+doi = {10.1145/3785478}
 }
 ```
 
