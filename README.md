@@ -43,7 +43,7 @@ If you find this useful for your research, please use the following.
 @article{10.1145/3785478,
 author = {Han, Shuo and Qin, Qibing and Zhang, Wenfeng and Huang, Lei},
 title = {Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval},
-journal = {Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval},
+journal = {ACM Transactions on Multimedia Computing, Communications and Applications},
 volume = {22},
 number = {2},
 page = {1-23},
